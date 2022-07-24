@@ -3,12 +3,7 @@ package com.xu.blog.utils;
 import java.util.LinkedHashMap;
 import java.util.Map;
 
-/**
- * @author 13
- * @qq交流群 796794009
- * @email 2449207463@qq.com
- * @link http:13blog.site
- */
+
 public class PageUtil extends LinkedHashMap<String, Object> {
     //当前页码
     private int page;
