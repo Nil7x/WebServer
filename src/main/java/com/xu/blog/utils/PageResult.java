@@ -3,12 +3,7 @@ package com.xu.blog.utils;
 import java.io.Serializable;
 import java.util.List;
 
-/**
- * @author 13
- * @qq交流群 796794009
- * @email 2449207463@qq.com
- * @link http:13blog.site
- */
+
 public class PageResult implements Serializable {
 
 	//总记录数
